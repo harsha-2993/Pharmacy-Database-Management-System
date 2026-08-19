@@ -1,0 +1,4 @@
+SELECT DATABASE();
+SHOW TABLES;
+SELECT * FROM medicine;
+SELECT * FROM customer;
